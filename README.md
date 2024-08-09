@@ -1,4 +1,4 @@
-## Eurika!!
+## Eurika!! 
 
 Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buktinya sekarang sedang belajar menjadi FullStack Web Developer bersama <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer.
 
@@ -18,7 +18,7 @@ Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buk
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
+<a href="https://github.com/srmpandejlaki">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
