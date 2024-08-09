@@ -19,8 +19,8 @@ Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buk
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/srmpandejlaki">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srmpandejlaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srmpandejlaki&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
