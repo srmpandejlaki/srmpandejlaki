@@ -23,7 +23,7 @@ Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buk
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkIn</a>
+- <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
 - <a href="https://instagram/mutiarapandejlaki27">Instagram</a>
 
 Sekian, Terima Kasih
