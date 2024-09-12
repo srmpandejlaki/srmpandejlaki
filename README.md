@@ -5,7 +5,8 @@ Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buk
 - 🔭 sekarang kuliah semester...
 - 🌱 sedang berusaha belajar bahasa pemrograman lainnya
 - 📫 How to reach me: mutiarapandejlaki27@gmail.com
-- ⚡ Fun fact: 25 Agustus 2024 katanya dihilangkan - paham? berarti kita satu univers:)
+- ⚡ Fun fact: 12 Oktober 2024 katanya dihilangkan - paham? berarti kita satu univers:)
+*tgl di funfact bisa berubah
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
