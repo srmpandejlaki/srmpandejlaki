@@ -4,7 +4,7 @@ Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buk
 
 - 🔭 sekarang kuliah semester...
 - 🌱 sedang berusaha belajar bahasa pemrograman lainnya
-- 📫 How to reach me: mutiarapandejlaki27@gmail.com
+- 📫 How to reach me: mutiarapandejlaki47@gmail.com
 - ⚡ Fun fact: 12 Oktober 2024 katanya dihilangkan - paham? berarti kita satu univers:)
 *tgl di funfact bisa berubah
 
