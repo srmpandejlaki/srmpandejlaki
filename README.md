@@ -1,12 +1,11 @@
-## Eurika!! 
+## Welcome to my little corner of the internet!! 
 
-Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buktinya sekarang sedang belajar menjadi FullStack Web Developer bersama <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer.
+Di sini tempat saya mendokumentasikan perjalanan saya terjun di dunia teknologi untuk menjadi seorang Software Developer bersama <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer.
 
-- 🔭 sekarang kuliah semester...
-- 🌱 sedang berusaha belajar bahasa pemrograman lainnya
-- 📫 How to reach me: mutiarapandejlaki47@gmail.com
-- ⚡ Fun fact: 12 Oktober 2024 katanya dihilangkan - paham? berarti kita satu univers:)
-*tgl di funfact bisa berubah
+### 📫 How to reach me
+- mutiarapandejlaki47@gmail.com
+- <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
+- <a href="https://instagram/mutiarapandejlaki27">Instagram</a>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -23,11 +22,7 @@ Perkenalkan saya salah satu orang yang sedang mencari arti hidup sebenarnya. Buk
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
-- <a href="https://instagram/mutiarapandejlaki27">Instagram</a>
-
-Sekian, Terima Kasih
+Coding is an art, and the masterpiece is always a work in progress!!
 <!--
 **srmpandejlaki/srmpandejlaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
