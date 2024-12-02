@@ -3,7 +3,6 @@
 Di sini tempat saya mendokumentasikan perjalanan saya terjun di dunia teknologi untuk menjadi seorang Software Developer bersama <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer.
 
 ### 📫 How to reach me
-- mutiarapandejlaki47@gmail.com
 - <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
 - <a href="https://instagram/mutiarapandejlaki27">Instagram</a>
 
@@ -22,7 +21,7 @@ Di sini tempat saya mendokumentasikan perjalanan saya terjun di dunia teknologi 
 </a>
 </p>
 
-Coding is an art, and the masterpiece is always a work in progress!!
+###Coding is an art, and the masterpiece is always a work in progress!!
 <!--
 **srmpandejlaki/srmpandejlaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
