@@ -9,9 +9,12 @@ Di sini tempat saya mendokumentasikan perjalanan saya terjun di dunia teknologi 
 ### 🔭 Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://sass-lang.com/"><img align="left" alt="Sass" title="Sass" width="21px" src="https://sass-lang.com/assets/img/styleguide/color.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+  <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" /></a>
   <br>
   <br>
+  *sedang mempelajari React & Bootstrap
   
 ### 🌱 Github Statistic
 <p align="left">
