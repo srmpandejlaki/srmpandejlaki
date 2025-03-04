@@ -1,6 +1,6 @@
 ## Welcome to my little corner of the internet!! 
 
-Di sini tempat saya mendokumentasikan perjalanan saya terjun di dunia teknologi untuk menjadi seorang Software Developer dibantu oleh <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer.
+Di sini tempat saya mendokumentasikan perjalanan saya untuk menjadi orang berguna dibantu oleh <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer. <br> "Mahasiswa:)"
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
