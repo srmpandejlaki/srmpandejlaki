@@ -1,6 +1,6 @@
 ## Welcome to my little corner of the internet!! 
 
-Di sini tempat saya mendokumentasikan perjalanan saya untuk menjadi orang berguna dibantu oleh <a href="https://github.com/dicodingacademy">@dicodingacademy</a> di Dicoding Bootcamp 2024 dengan pelatihan Front-End Web dan Back-End Developer. <br> "Mahasiswa:)"
+Tempat mendokumentasikan perjalanan untuk menjadi orang berguna. <br> "Masih Mahasiswa:)"
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
@@ -14,9 +14,9 @@ Di sini tempat saya mendokumentasikan perjalanan saya untuk menjadi orang bergun
   <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="27px" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" /></a>
   <br>
   <br>
-  *sedang mempelajari React & Bootstrap
+  *sedang mempelajari React & Bootstrap🌱
   
-### 🌱 Github Statistic
+### ⚡ Github Statistic
 <p align="left">
 <a href="https://github.com/srmpandejlaki">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srmpandejlaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
