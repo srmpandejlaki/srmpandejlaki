@@ -1,6 +1,6 @@
 ## Welcome to my little corner of the internet!! 
 
-Tempat mendokumentasikan pembelajaran untuk menjadi orang berguna. <br> "Masih Mahasiswa:)"
+### "Masih Mahasiswa:)"
 
 ### 📫 How to reach me
 - <a href="https://www.linkedin.com/in/mutiara-pandejlaki-0856431b6/">LinkedIn</a>
