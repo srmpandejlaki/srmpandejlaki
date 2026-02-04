@@ -24,16 +24,18 @@
 
 ## ⚡ GitHub Statistics
 
-<p align="center">
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api?username=srmpandejlaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmpandejlaki&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<!-- <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=srmpandejlaki&theme=algolia&hide_border=true" width="480"/>
+</p> -->
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=srmpandejlaki&theme=algolia&hide_border=true" width="480"/>
+  <a href="https://github.com/srmpandejlaki">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srmpandejlaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srmpandejlaki&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=srmpandejlaki&theme=react-dark&hide_border=true"/> -->
 
 > *Note: Total commits include private repositories and non-default branches.*
 
