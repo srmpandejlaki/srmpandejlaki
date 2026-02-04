@@ -10,10 +10,10 @@
 
 
 ### ⚡ Github Statistic
-<table align="" border="0px">
+<table align="" border="0">
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=srmpandejlaki&theme=dark&hide_border=true" width="420"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=srmpandejlaki&theme=dark&hide_border=true" width="480"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srmpandejlaki&layout=compact&langs_count=8&theme=algolia"/>
